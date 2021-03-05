@@ -7,3 +7,7 @@ A *random quote generator, with quote sharing functionality via [Twitter's tweet
 The [random quote machine can be found here.](https://codepen.io/allemandi/full/NWbBVKe "fCC: Random Quote Machine - Forismatic Quotes")
 
 *Credits to [forismatic.com](https://forismatic.com/en/api/) for quotes via API functionality.
+
+
+# License
+MIT, by default public Pen licensing on CodePen.io

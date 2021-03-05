@@ -1,0 +1,49 @@
+body {
+  /*   due to using bootstrap, body background default is white, needing !important tag */
+  background-color: #2F4F4F !important;
+
+}
+
+
+
+#page-container {
+  min-height: 100vh;
+}
+
+#quote-box {
+
+  border-radius: 2rem;
+  margin: 3rem auto auto auto;
+  position: relative;
+  width: 50rem;
+  padding: 3rem 3rem 1rem 3rem;
+  background-color: #B4CDCD;
+}
+
+/* responsive web design for max 600px */
+@media (max-width: 600px) {
+  #quote-box
+  {
+    width: 100%;
+  }
+  #button-container {
+    width: 100%;
+    display: grid;  
+    grid-gap: 1rem;  
+    justify-items: center;
+
+  }
+
+}
+
+
+
+footer {
+  width: 100%;
+  text-align: center;
+  background: black;
+  margin-top: 3rem;
+  position: absolute;
+  padding: 1rem 0 1rem 0;
+  color: #C0C0C0;
+}
