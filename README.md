@@ -1,4 +1,4 @@
-# fCC Front End-Development Libraries Projects
+# fCC Front End Development Libraries Projects
 Project Challenges for freeCodeCamp's Front End Development Libraries Certification
 
 ## Build a Random Quote Machine - Forismatic Quotes
