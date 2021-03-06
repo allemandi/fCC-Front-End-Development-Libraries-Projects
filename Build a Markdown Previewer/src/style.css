@@ -1,0 +1,61 @@
+.container-fluid {
+  left: 0;
+}
+blockquote {
+  color: #666;
+  margin: 0;
+  padding-left: 3em;
+  border-left: 0.5em #eee solid;
+}
+
+
+code {
+  background: #eee;
+}
+
+pre code {
+  display: block;
+  padding: 1rem;
+}
+
+
+footer {
+  width: 100%;
+  text-align: center;
+  background: black;
+  margin-top: 3rem;
+  position: absolute;
+  padding: 1rem 0 1rem 0;
+  color: #C0C0C0;
+}
+
+.display-4{
+  border-bottom: 0.1rem solid #000;
+  max-width: 40%; 
+}
+
+@media (max-width: 600px) {
+  img {
+    width: 12rem;
+    height: auto;
+  }
+  .display-1
+  {
+    font-size: 2rem;
+
+  }
+  .display-4
+  {
+    padding-top: 1rem;
+    font-size: 1.6rem;
+
+  }
+  .col-sm
+  {
+    display: grid;
+    grid-gap: 1rem;
+  }
+  #editor {
+    min-height: 10rem;
+  }
+}
