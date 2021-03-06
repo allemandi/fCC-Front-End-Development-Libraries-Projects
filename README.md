@@ -8,6 +8,11 @@ The [random quote machine can be found here.](https://codepen.io/allemandi/full/
 
 *Credits to [forismatic.com](https://forismatic.com/en/api/) for quotes via API functionality.
 
+## Build a Markdown Previewer
+A markdown previewer, dynamically converting markdown input to a formatted output for preview. This is built as a CodePen.io app, chosen to demonstrate to React component-driven interaction. Bootstrap included for responsive web design.
+
+The [markdown previewer can be found here.](https://codepen.io/allemandi/full/OJbomZd "fCC: Build a Markdown Previewer")  
+
 
 # License
 MIT, by default public Pen licensing on CodePen.io
