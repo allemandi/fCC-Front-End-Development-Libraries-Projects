@@ -7,7 +7,7 @@ var defaultText =
 
 ## Sub Header (H2 size)
 
-[A link to allemandi'a Codepen.io profile](https://codepen.io/allemandi)
+[A link to allemandi's Codepen.io profile](https://codepen.io/allemandi)
 
 Please note that CodePen.io prevents any links, if not opened in a new tab or redirected to CodePen specifically, will fail due to sandboxing/security concerns!
 
