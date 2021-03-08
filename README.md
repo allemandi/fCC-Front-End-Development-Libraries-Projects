@@ -13,6 +13,12 @@ A markdown previewer, dynamically converting markdown input to a formatted outpu
 
 The [markdown previewer can be found here.](https://codepen.io/allemandi/full/OJbomZd "fCC: Build a Markdown Previewer")  
 
+## Build a Drum Machine: Soft Sounds Edition
+A drum machine, simulating a drum pad application. The drum pad handles mouse clicks and keyboard presses according to the drum pad with interactive *soundbank and volume controls. This is built as a CodePen.io app, primarily built with React and Bootstrap for highlighting user events.
+
+The [drum machine can be found here.](https://codepen.io/allemandi/full/abBaQRa "fCC: Build a Drum Machine: Soft Sounds Edition")
+
+*Credits to dight310, found via findsounds.com, for audio files.
 
 # License
 MIT, by default public Pen licensing on CodePen.io
