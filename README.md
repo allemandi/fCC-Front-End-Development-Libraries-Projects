@@ -20,5 +20,10 @@ The [drum machine can be found here.](https://codepen.io/allemandi/full/abBaQRa 
 
 *Credits to dight310, found via findsounds.com, for audio files.
 
+## Build a JavaScript Calculator - Colorful
+A calculator built in JavaScript. The application is primarily rendered with React and also utilizes Bootstrap. This is built as a CodePen.io app, highlighting basic mathematical operations and recorded input.
+
+The [JavaScript calculator can be found here.](https://codepen.io/allemandi/full/ExNdXdL "CodePen Home fCC: Build a JavaScript Calculator - Colorful")
+
 # License
 MIT, by default public Pen licensing on CodePen.io
