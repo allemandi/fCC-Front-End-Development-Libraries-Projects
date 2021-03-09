@@ -1,8 +1,6 @@
 body {
   background: repeating-linear-gradient(315deg, #f9d29d 0%, #ffd8cb 74%);
   font-family: Verdana, sans-serif;
-
-
   height: 100%;
   margin: 0;
   background-repeat: no-repeat;
@@ -23,6 +21,9 @@ body {
 
 #display-screen {
   margin: 1.5rem 1rem 1rem 1rem;
+  max-width: 100%;
+white-space: nowrap;
+overflow: hidden;
   display: grid;
   grid-template-columns: 1fr;
   height: 7rem;
@@ -37,11 +38,13 @@ body {
   display: inline-block;
   font-size: 1.5rem;
   height: 1.5rem;
+
 }
 
 #display {
   display: inline-block;
   font-size: 3rem;
+
 }
 
 .button {
@@ -103,6 +106,18 @@ body {
   padding: 0;
   display: grid;
   grid-gap: 1rem;
+    
+}
+  
+  #calculator {
+
+  width: 100%;
+}
+#operator-pad {
+justify-items: center;
+  width:100%;
+  grid-template-columns: 1fr 1fr;
+  
 }
   
 }
