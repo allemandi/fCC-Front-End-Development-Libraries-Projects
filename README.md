@@ -23,7 +23,12 @@ The [drum machine can be found here.](https://codepen.io/allemandi/full/abBaQRa 
 ## Build a JavaScript Calculator - Colorful
 A calculator built in JavaScript. The application is primarily rendered with React and also utilizes Bootstrap. This is built as a CodePen.io app, highlighting basic mathematical operations and recorded input.
 
-The [JavaScript calculator can be found here.](https://codepen.io/allemandi/full/ExNdXdL "CodePen Home fCC: Build a JavaScript Calculator - Colorful")
+The [JavaScript calculator can be found here.](https://codepen.io/allemandi/full/ExNdXdL "fCC: Build a JavaScript Calculator - Colorful")
+
+## Build a 25 + 5 Clock - Pomodoro
+A 25 + 5 Clock built in JavaScript. This is a timer based on the [Pomodoro Technique](https://en.wikipedia.org/wiki/Pomodoro_Technique "Wikipedia - Pomodoro Technique"), where the timer continually switches between set intervals, traditionally a 25-minute work session and a short 5-minute break. This is built as a CodePen.io app, with a focus on React setIntervals functions, and the usual Bootstrap for mobile responsiveness.
+
+The [25 + 5 Clock can be found here.](https://codepen.io/allemandi/full/xxRQXRb "fCC: Build a 25 + 5 Clock - Pomodoro")
 
 # License
 MIT, by default public Pen licensing on CodePen.io
