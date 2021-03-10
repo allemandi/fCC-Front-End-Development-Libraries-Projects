@@ -1,0 +1,80 @@
+body {
+  text-align: center;
+  background: linear-gradient(315deg, #94c997 0%, #daacec 74%);
+  font-family: Verdana, sans-serif;
+  height: 100%;
+  margin: 0;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+#clock-container {
+  margin: 3rem auto;
+  max-width: 45rem;
+  border: 0.3rem solid #aff1da;
+  padding: 1rem;
+  border-radius: 0.5rem;
+  background: linear-gradient(315deg, #f9ea8f 0%, #aff1da 74%);
+
+}
+#interval-settings-container {
+  padding: 1rem 1rem 1.5rem 1rem;
+  border-bottom: 0.1rem solid #000;
+}
+
+#break-header-container, #session-header-container{
+  display: block;
+  width: 5rem;
+  height: auto;
+  margin: auto auto auto 5rem;
+
+} 
+
+#timer-container{
+  margin: 1.5rem auto 1rem;
+}
+
+h1{
+  border-bottom: 0.1rem solid #000;
+  padding: 1rem 0 1.5rem;
+
+}
+
+h3{
+  font-size: 3rem;
+}
+
+
+.btn {
+  display: inline-block;
+  width: 100%;
+  height: auto;
+  line-height: 2.5rem;
+  background-color: rgba(0, 0, 0, .35);
+  font-size: 2rem;
+  color: #FFF;
+  text-align: center;
+  cursor: pointer;
+  border: 0.1rem solid #FFF;
+  border-radius: 1rem;
+}
+.session-row{
+  padding: 0.5rem;
+}
+footer {
+
+  text-align: center;
+  background: #000;
+  margin-top: 3rem;
+  position: absolute;
+  padding: 1rem 0 1rem;
+  color: #C0C0C0;
+}
+
+
+
+@media (max-width: 600px) {
+  #break-header-container, #session-header-container{
+    margin: auto auto auto 4rem;
+  }
+}
